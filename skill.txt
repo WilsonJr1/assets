@@ -1,0 +1,41 @@
+# Skill: Creative Carousel from GitHub Assets
+
+## Descrição
+Esta skill cria carrosséis visuais de 5 slides para Instagram e LinkedIn a partir de um tema informado pelo usuário.
+
+Ela utiliza os assets visuais da empresa armazenados no repositório:
+
+https://github.com/WilsonJr1/assets
+
+Pasta de referência:
+`/assets`
+
+Os assets são usados como referência obrigatória de identidade visual, mas não limitam a criação. O agente pode gerar novos elementos visuais (fundos, ícones, composições), desde que respeite o padrão da marca.
+
+---
+
+## Objetivo
+Criar um carrossel profissional contendo:
+
+- 5 slides consistentes
+- textos otimizados
+- direção visual alinhada à marca
+- legenda para LinkedIn
+- legenda para Instagram
+- CTA final
+
+---
+
+## Regras principais
+
+- Sempre consultar o repositório GitHub antes de criar
+- Sempre usar os assets como referência visual
+- Pode criar novos elementos visuais
+- Deve manter identidade visual consistente
+- Sempre gerar 5 slides
+
+---
+
+## Princípio central
+
+Os assets do repositório são a base da identidade visual da marca, e devem orientar toda criação, sem limitar a criatividade.

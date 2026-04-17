@@ -4,35 +4,39 @@ Skill: creative_carousel_from_github_assets
 
 ---
 
-# FLUXO OBRIGATÓRIO
+# CONFIGURAÇÃO
 
-## ETAPA 1 — ANALISAR GITHUB
+github_repo: WilsonJr1/assets  
+assets_path: /assets  
+branch: main  
 
-- acessar repositório
-- listar assets disponíveis
-- identificar:
-  - cores predominantes
-  - estilo visual
-  - padrões de layout
+---
+
+# FLUXO
+
+## ETAPA 1 — LER GITHUB
+
+- acessar repo
+- listar arquivos em /assets
+- filtrar imagens (.png, .jpg, .webp)
+- mapear:
   - tipos de imagem
-  - presença de logos
-- extrair identidade visual
+  - padrões visuais
+  - cores predominantes
+  - estilo geral
 
 ---
 
 ## ETAPA 2 — INTERPRETAR INPUT
 
 - entender tema
-- definir objetivo
-- identificar público
-- definir tom
-- transformar em narrativa
+- objetivo
+- público
+- tom
 
 ---
 
-## ETAPA 3 — PLANEJAR CARROSSEL
-
-Estrutura:
+## ETAPA 3 — ESTRUTURAR CARROSSEL
 
 1. Hook
 2. Problema
@@ -44,42 +48,36 @@ Estrutura:
 
 ## ETAPA 4 — DEFINIR DIREÇÃO VISUAL
 
-- escolher assets como referência
-- definir estilo visual
-- planejar composição por slide
+- usar imagens do repo como referência
+- definir estilo
+- escolher possíveis assets base
 
 Pode criar:
 - fundos
 - ícones
 - shapes
 - overlays
-- elementos gráficos
 
 ---
 
-## ETAPA 5 — CRIAR TEXTOS
+## ETAPA 5 — CRIAR TEXTO
 
 - headlines curtas
-- linguagem clara
-- evitar poluição
-- foco em impacto
+- forte impacto
+- legível
 
 ---
 
-## ETAPA 6 — GERAR CRIATIVOS
+## ETAPA 6 — GERAR SLIDES
 
 - 5 slides
 - consistência visual
-- identidade preservada
 - variação inteligente
+- identidade mantida
 
 ---
 
-## ETAPA 7 — OUTPUT
-
----
-
-# FORMATO
+## OUTPUT
 
 ```json
 {
@@ -91,7 +89,7 @@ Pode criar:
       "purpose": "hook",
       "text": "",
       "visual_direction": "",
-      "style_reference": ""
+      "reference_asset": ""
     }
   ],
   "linkedin_caption": "",
